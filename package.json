@@ -1,0 +1,26 @@
+{
+  "name": "multisig-wallet",
+  "version": "1.0.0",
+  "description": "This is a readme file for wallet that connect to the web3, a project in solidity programme it is kind of special wallet where you can only spend ether if multiple addresses approve that transaction",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kun7/Multisig-wallet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kun7/Multisig-wallet/issues"
+  },
+  "homepage": "https://github.com/kun7/Multisig-wallet#readme",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15"
+  }
+}
